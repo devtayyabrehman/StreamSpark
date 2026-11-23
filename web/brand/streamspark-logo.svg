@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" role="img" aria-labelledby="title">
+  <title id="title">StreamSpark</title>
+  <rect x="10" y="10" width="80" height="80" rx="24" fill="#08111F"/>
+  <path d="M24 53h9l7-17 11 31 9-22 7 8h11" fill="none" stroke="#22D3EE" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/>
+  <path d="M70 22v10m-5-5h10" fill="none" stroke="#67E8F9" stroke-linecap="round" stroke-width="2.8"/>
+  <text x="106" y="66" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.7">Stream</text>
+  <text x="250" y="66" fill="#0E7490" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.7">Spark</text>
+</svg>
